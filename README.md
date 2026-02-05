@@ -23,4 +23,3 @@ The project includes real-world examples such as student results, employee salar
 - Understanding of business datasets  
 - Improved accuracy and reporting skills  
 - Strong base for Data Analysis & Power BI  
-
